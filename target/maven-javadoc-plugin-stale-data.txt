@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/alumno/Desktop/Grado Superior/Entornos/practicaed/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/alumno/Desktop/Grado Superior/Entornos/practicaed/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'practicaed 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/alumno/Desktop/Grado Superior/Entornos/practicaed/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'practicaed 1.0-SNAPSHOT API'
+modelo
+recursos
+'C:/Users/alumno/Desktop/Grado Superior/Entornos/practicaed/src/main/java/modelo/Producto.java'
+'C:/Users/alumno/Desktop/Grado Superior/Entornos/practicaed/src/main/java/recursos/Utilidades.java'
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\src\main\java = 1651855830590
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\allclasses-index.html = 1651857211634
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\allclasses.html = 1651857211681
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\allpackages-index.html = 1651857211665
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\constant-values.html = 1651857211196
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\deprecated-list.html = 1651857211681
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\element-list = 1651857210915
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\help-doc.html = 1651857211743
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\index-all.html = 1651857211618
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\index.html = 1651857211696
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\member-search-index.js = 1651857211603
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\member-search-index.zip = 1651857211618
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\overview-summary.html = 1651857211696
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\overview-tree.html = 1651857211321
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\package-search-index.js = 1651857211353
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\package-search-index.zip = 1651857211587
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\script.js = 1651857211775
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\search.js = 1651857211806
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\stylesheet.css = 1651857211775
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\type-search-index.js = 1651857211587
+C:\Users\alumno\Desktop\Grado Superior\Entornos\practicaed\target\site\apidocs\type-search-index.zip = 1651857211587
